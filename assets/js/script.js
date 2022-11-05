@@ -65,7 +65,7 @@ let fetchData = async (val = '') => {
     
 }
 
-fetchData();  // function call
+fetchData();  // function call fetching data
 
 
 /**** search text - button click function ****/
